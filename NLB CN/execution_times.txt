@@ -1,0 +1,42 @@
+Dynamic round robin: 5, 1000, 1.3387770652770996
+Static round robin: 5, 1000, 1.1085703372955322
+Least connections: 5, 1000, 0.8316538333892822
+Weighted Least connections: 5, 1000, 0.9625756740570068
+Least Bandwidth: 5, 1000, 1.5935091972351074
+Ip Hash Load Balancing: 5, 1000, 1.7047784328460693
+Content Aware Load Balancing: 5, 1000, 0.9285428524017334
+Dynamic round robin: 5, 2000, 2.0620505809783936
+Static round robin: 5, 2000, 3.2641007900238037
+Least connections: 5, 2000, 4.985391855239868
+Weighted Least connections: 5, 2000, 4.233920574188232
+Least Bandwidth: 5, 2000, 1.569854497909546
+Ip Hash Load Balancing: 5, 2000, 5.89081597328186
+Content Aware Load Balancing: 5, 2000, 1.8086819648742676
+Dynamic round robin: 5, 2500, 4.052243232727051
+Static round robin: 5, 2500, 2.3153512477874756
+Least connections: 5, 2500, 3.2453012466430664
+Weighted Least connections: 5, 2500, 2.1248972415924072
+Least Bandwidth: 5, 2500, 2.7218754291534424
+Ip Hash Load Balancing: 5, 2500, 5.025974273681641
+Content Aware Load Balancing: 5, 2500, 2.3636667728424072
+Dynamic round robin: 5, 3000, 3.590092658996582
+Static round robin: 5, 3000, 4.442962646484375
+Least connections: 5, 3000, 5.869308948516846
+Weighted Least connections: 5, 3000, 3.4876861572265625
+Least Bandwidth: 5, 3000, 4.224452972412109
+Ip Hash Load Balancing: 5, 3000, 7.820530652999878
+Content Aware Load Balancing: 5, 3000, 3.9749014377593994
+Dynamic round robin: 5, 3500, 6.9357733726501465
+Static round robin: 5, 3500, 7.538275241851807
+Least connections: 5, 3500, 3.451051712036133
+Weighted Least connections: 5, 3500, 5.496317386627197
+Least Bandwidth: 5, 3500, 6.531450510025024
+Ip Hash Load Balancing: 5, 3500, 6.518545150756836
+Content Aware Load Balancing: 5, 3500, 6.648354530334473
+Dynamic round robin: 5, 4000, 8.827334642410278
+Static round robin: 5, 4000, 8.934549570083618
+Least connections: 5, 4000, 3.136489152908325
+Weighted Least connections: 5, 4000, 6.432703971862793
+Least Bandwidth: 5, 4000, 3.9260051250457764
+Ip Hash Load Balancing: 5, 4000, 4.779349088668823
+Content Aware Load Balancing: 5, 4000, 9.217437744140625
